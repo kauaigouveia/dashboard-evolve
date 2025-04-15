@@ -1,0 +1,10 @@
+{
+  "name": "propostas-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "json-server --watch db.json --port 3001"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
