@@ -1,0 +1,15 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore os arquivos de log
+*.log
+
+# Ignore a pasta de build do frontend, se houver
+/build/
+
+# Ignore arquivos do sistema operacional (Windows)
+Thumbs.db
+Desktop.ini
+
+# Ignore arquivos do sistema operacional (Mac)
+.DS_Store
